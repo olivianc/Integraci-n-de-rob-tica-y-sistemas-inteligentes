@@ -1,4 +1,6 @@
 # TAREA 1 HMI FOR SIGNAL PROCESSING 
+### Prerrequisitos 
+
 
 ![alt text](image.png)
 
