@@ -9,8 +9,17 @@ Desarrollar una interfaz de usuario que permita cargar archivos de audio en form
 - Una vez cargado, se muestra la forma de onda de la señal original.
 ![alt text](image-1.png)
 
-### Aplicar filtro 
+### Aplicar filtro y frecuencia de corte
+Al aplicar el filtro se puede elegir entre los siguientes: 
+
+- Pasa-Bajas
+
+- Pasa-Altas
+
+- Pasa-Banda
+
 ![alt text](image-2.png)
+
 ## Alicar transformada 
 ![alt text](image-3.png)
 ## Menú 
