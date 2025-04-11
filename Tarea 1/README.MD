@@ -20,7 +20,8 @@ Al aplicar el filtro se puede elegir entre los siguientes:
 
 ![alt text](image-2.png)
 
-## Alicar transformada 
+## Alplicar transformada 
+Una vez que se aplica el filtro el botón de "Aplicar transformada" le aplica la transformada de fourier tanto a la señal origianl como a la filtrada 
 ![alt text](image-3.png)
 ## Menú 
 ![alt text](image-4.png)
