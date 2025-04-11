@@ -5,6 +5,8 @@
 Desarrollar una interfaz de usuario que permita cargar archivos de audio en formato .wav, aplicar filtros pasa-altas, pasa-bajas y pasa-banda, y visualizar gráficamente tanto la señal original como su transformada de Fourier. Además, la aplicación deberá permitir guardar la señal procesada como un nuevo archivo de audio
 ![alt text](image.png)
 ### Cagrgar archivo 
+- Al presionar este botón se abre una ventana para seleccionar un archivo de audio .wav.
+- Una vez cargado, se muestra la forma de onda de la señal original.
 ![alt text](image-1.png)
 
 ### Aplicar filtro 
