@@ -1,9 +1,9 @@
 # TAREA 1 HMI FOR SIGNAL PROCESSING 
 ### Prerrequisitos 
-
-
+- Instalar librerias necesarias (customtkinter librosa matplotlib scipy numpy)
+### Objetivo de la aplicación 
+Desarrollar una interfaz de usuario que permita cargar archivos de audio en formato .wav, aplicar filtros pasa-altas, pasa-bajas y pasa-banda, y visualizar gráficamente tanto la señal original como su transformada de Fourier. Además, la aplicación deberá permitir guardar la señal procesada como un nuevo archivo de audio
 ![alt text](image.png)
-
 ### Cagrgar archivo 
 ![alt text](image-1.png)
 
