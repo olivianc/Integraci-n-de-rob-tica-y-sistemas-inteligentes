@@ -21,7 +21,7 @@ Al aplicar el filtro se puede elegir entre los siguientes:
 
 - Pasa-Banda
 
-![alt text] (image-5.png)
+![alt text](image-5.png)
 
 ## Alplicar transformada 
 Una vez que se aplica el filtro el botón de "Aplicar transformada" le aplica la transformada de fourier tanto a la señal origianl como a la filtrada 
