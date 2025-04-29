@@ -25,3 +25,7 @@ Este proyecto utiliza OpenCV para detectar pelotas en un video y seguir su movim
 
 Finalización: Se muestra el video. 
 
+###Video del funcionamiento 
+https://www.youtube.com/watch?v=wEU9IjXsnOw
+
+
