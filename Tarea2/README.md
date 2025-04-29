@@ -27,5 +27,5 @@ Finalización: Se muestra el video.
 
 [Video del funcionamiento] 
 (https://www.youtube.com/watch?v=wEU9IjXsnOw)
-
+![alt text](pelota.png)
 
